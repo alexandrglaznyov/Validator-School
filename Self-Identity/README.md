@@ -55,3 +55,4 @@ There was developed a bot notifications about new proposals in ODIN protocol
 - [GitHub](https://github.com/MELLIFERA-Labs)
 - [gmail](team@mellifera.network)
 
+## Course 2.0 finished
