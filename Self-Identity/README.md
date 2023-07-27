@@ -1,6 +1,6 @@
 # self-identity
 
-![MELLIFERA-logo](https://mellifera.network/img/mellifera.png)
+![MELLIFERA-logo](https://s3.amazonaws.com/keybase_processed_uploads/e86fec4890dc435ba14cb684ab658e05_360_360.jpg)
 
 # MELLIFERA
 
