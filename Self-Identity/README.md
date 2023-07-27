@@ -1,3 +1,3 @@
 # self-identity
 
-![MELLIFERA-logo](https://mellifera.network/img/mellifera.png)
+<img src="https://mellifera.network/img/mellifera.png" style="border-radius: 50%;">
