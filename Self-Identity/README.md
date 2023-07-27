@@ -4,13 +4,15 @@
 
 # MELLIFERA
 
-We are Ruslan and Alexander. Blockchain technology is the thing we are in love with. It has already started changing the world and without doubts will continue changing in the future. That`s why we are here and for long term to figure out how it works in details. We are proude to be a part of this revolution
+We are blockchain validators. Blockchain technology is the thing we are in love with. It has already started changing the world and without doubts will continue changing in the future. That`s why we are here and for long term to figure out how it works in details. We are proude to be a part of this revolution
 
-At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnets and in the mainnets. Here list of all network where we participate available on our site
+At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnets and in the mainnets. Here list of all network where we participate available on our <a href="https://mellifera.network">site</a>
 
 ## Active mainnet
 
-<h4 align="center"><a href="https://kyve-restake.mellifera.network/delegate">STAKE KYVE WITH US</a></h4> 
+## KYVE
+<h4><a href="https://kyve-restake.mellifera.network/delegate">STAKE KYVE WITH US</a></h4>
+## ODIN Protocol
 <h4 align="center"><a href="https://mainnet.odinprotocol.io/validators/odinvaloper1pfs42htt5w4d65rjt9cs283c2sre4tf3t4sfl7">STAKE ODIN WITH US</a></h4>
 
 ## Contributions
@@ -42,4 +44,8 @@ There was developed a bot notifications about new proposals in ODIN protocol
  - [discord bot]( https://discord.gg/cUXKyRq) in `voting proposal` branch
  - [PR](https://github.com/ODIN-PROTOCOL/odin-web/pull/55) Cosmostation wallet support in [odin-web](https://mainnet.odinprotocol.io)
  - [PR](https://github.com/ODIN-PROTOCOL/odin-web/pull/52) for ledger wallet support in [odin-web](https://mainnet.odinprotocol.io)
+
+
+### Contacts
+[Website](https://mellifera.network/)
 
