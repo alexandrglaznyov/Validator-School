@@ -10,9 +10,9 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
 
 ## Active mainnet
 
-KYVE
+- KYVE
 <h4><a href="https://kyve-restake.mellifera.network/delegate">STAKE KYVE WITH US</a></h4>
-ODIN Protocol
+- ODIN Protocol
 <h4><a href="https://mainnet.odinprotocol.io/validators/odinvaloper1pfs42htt5w4d65rjt9cs283c2sre4tf3t4sfl7">STAKE ODIN WITH US</a></h4>
 
 ## Contributions
@@ -47,8 +47,8 @@ There was developed a bot notifications about new proposals in ODIN protocol
 
 
 ## Contacts
-[Website](https://mellifera.network/)
-[Telegram](https://t.me/MelliferaValidator)
-[GitHub](https://github.com/MELLIFERA-Labs)
-[gmail](team@mellifera.network)
+- [Website](https://mellifera.network/)
+- [Telegram](https://t.me/MelliferaValidator)
+- [GitHub](https://github.com/MELLIFERA-Labs)
+- [gmail](team@mellifera.network)
 
