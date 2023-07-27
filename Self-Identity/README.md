@@ -1,12 +1,12 @@
 # self-identity
 
-<img src="https://s3.amazonaws.com/keybase_processed_uploads/e86fec4890dc435ba14cb684ab658e05_360_360.jpg" style="border-radius: 50%;">
+![MELLIFERA-logo](https://s3.amazonaws.com/keybase_processed_uploads/e86fec4890dc435ba14cb684ab658e05_360_360.jpg)
 
                                                   https://mellifera.network
 
 # MELLIFERA
 
-We are blockchain validators. Blockchain technology is the thing we are in love with. It has already started changing the world and without doubts will continue changing in the future. That`s why we are here and for long term to figure out how it works in details. We are proude to be a part of this revolution
+We are Ruslan and Alexander. Blockchain technology is the thing we are in love with. It has already started changing the world and without doubts will continue changing in the future. That`s why we are here and for long term to figure out how it works in details. We are proude to be a part of this revolution
 
 At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnets and in the mainnets. Here list of all network where we participate available on our <a href="https://mellifera.network">site</a>
 
@@ -53,6 +53,5 @@ There was developed a bot notifications about new proposals in ODIN protocol
 - [Website](https://mellifera.network/)
 - [Telegram](https://t.me/MelliferaValidator)
 - [GitHub](https://github.com/MELLIFERA-Labs)
-- [gmail](team@mellifera.network)
 
 ## Course 2.0 finished
