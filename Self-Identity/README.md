@@ -1,6 +1,6 @@
 # self-identity
 
-<img src="https://s3.amazonaws.com/keybase_processed_uploads/e86fec4890dc435ba14cb684ab658e05_360_360.jpg" style="border-radius: 50%">
+![MELLIFERA-logo](https://s3.amazonaws.com/keybase_processed_uploads/e86fec4890dc435ba14cb684ab658e05_360_360.jpg)
 
 # MELLIFERA
 
@@ -48,4 +48,7 @@ There was developed a bot notifications about new proposals in ODIN protocol
 
 ## Contacts
 [Website](https://mellifera.network/)
+[Telegram](https://t.me/MelliferaValidator)
+[GitHub](https://github.com/MELLIFERA-Labs)
+[gmail](team@mellifera.network)
 
