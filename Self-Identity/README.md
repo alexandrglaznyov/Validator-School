@@ -12,6 +12,7 @@ At the moment, MELLIFERA validate in almost 10 networks, in the testnets, devnet
 
 - KYVE
 <h4><a href="https://kyve-restake.mellifera.network/delegate">STAKE KYVE WITH US</a></h4>
+
 - ODIN Protocol
 <h4><a href="https://mainnet.odinprotocol.io/validators/odinvaloper1pfs42htt5w4d65rjt9cs283c2sre4tf3t4sfl7">STAKE ODIN WITH US</a></h4>
 
